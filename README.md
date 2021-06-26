@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Products Info
 
-### 智能视觉监测
+### visionDetect
 
 **Bold** and _Italic_ and `Code` text
 

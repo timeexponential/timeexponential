@@ -1,24 +1,25 @@
-## timeexponential
+## TimeExponential
 
-You can use the [editor on GitHub](https://github.com/timeexponential/timeexponential/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+公司成立于2021年6月份，创立者在计算机视觉识别，视觉测量，智能数据分析，车载运动控制，激光点云处理，智能障碍物分析，运动规划，任务调度，路线规划等方面有多年的研究开发经验，现阶段以产品线的完善为主要工作，以gitHub为产品发布网站。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Products Info 现有产品
 
-### Products Info
+1. 视觉检测：利用视觉检测危险液体样品液位，已应用于某军工研究所；
+2. 智能软件避障：根据速度等信息自动调整避障区域，在保证安全的情况下最大化效率，已用于某大型AGV项目；
+3. 智能监测：利用视觉监测仪器仪表数据，类似产品有日本疫苗监测系统（100万日元/套，新产品我们每套只需要4998RMB）；
 
-### visionDetect
+### Products Plan
+
+1. 视觉产品系列：高精度测量、智能异常检测、智能异常监测等；
+2. 激光产品系列：激光智能定位、激光智能测量、激光智能避障等；
+3. 运动控制系列：AGV,AMR等运动控制；
+4. 系统排程系列：智能任务分配、智能任务调度、智能路径规划等；
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/timeexponential/timeexponential/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+邮箱: timeexponential@163.com;  timeexponential@gmail.com
